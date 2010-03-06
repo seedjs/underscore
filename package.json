@@ -7,5 +7,6 @@
   "maintainer"    : "Kris Kowal <kris.kowal@cixar.com>",
   "contributors"  : [],
   "dependencies"  : [],
-  "lib"           : "."
+  "lib"           : ["."],
+  "seed-maintainer": "Josh Holt (http://blog.thesempiternalholts.com)"
 }
